@@ -830,7 +830,7 @@
             .cloth-link {
                 color: lightseagreen;
                 font-weight: bolder;
-                font-size: 17px;
+                font-size: 15px;
             }
             .products2 {
                 display: flex;
@@ -1042,6 +1042,19 @@
                 font-size: 15px;
                 text-align: center;
             }
+           .shopping{
+                border-radius: 50%;
+                position:absolute;
+                color: darkcyan;                
+                background-color: rgb(231, 248, 248);
+                display: block;
+                bottom: -12px;
+                right: 5px;
+                
+                font-size: 12px;
+                padding: 8px;
+                transition: 0.3s;
+            }
             .sign-link {
                 color: #b0b8dd;         
                 position: relative;
@@ -1223,6 +1236,7 @@
            
 
             
+
 
 
 
