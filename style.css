@@ -734,7 +734,7 @@
                 height: 0;
 }
             .hero {
-            background-image: url(images/hero4.png);
+            background-image: url(hero4.png);
             height: 500px;
             width: 100%;
             display: flex;
@@ -1188,3 +1188,4 @@
            
 
             
+
