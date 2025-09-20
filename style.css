@@ -773,6 +773,16 @@
               margin-bottom: 15px;
               width: 98px;
           }
+            .ok-link {
+              border: 1px solid #d1d3df;
+              width: 159px;
+              cursor: pointer;
+              transition: 0.3s;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              justify-content: center;
+          }
             .home {
                 text-align: center;
                 font-size: 25px;
@@ -1204,6 +1214,7 @@
            
 
             
+
 
 
 
