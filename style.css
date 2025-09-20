@@ -799,8 +799,17 @@
             .pictures {
                 border-radius: 15px;
                 margin: auto;
-                width: 180px;
+                width: 141px;
             }
+            .ok {
+              border-color: #d1d3df;
+              border-width: 1px;
+              border-style: solid;
+              padding-left: 4px;
+              padding-right: 4px;
+              transition: 0.3s;
+              margin-top: 10px;
+          }
             .cloth {
                 font-size: 12px;
                 font-weight: 1px;
@@ -826,7 +835,7 @@
             .products2 {
                 display: flex;
                 justify-content: space-around;
-                margin-top: 35px;
+                margin-top: 5px;
                 flex-wrap: wrap;
             }
             .banner {
@@ -1214,6 +1223,7 @@
            
 
             
+
 
 
 
