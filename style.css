@@ -769,6 +769,10 @@
                 row-gap: 20px;
                 flex-wrap: wrap ;
             }
+            .ok-link img {
+              margin-bottom: 15px;
+              width: 98px;
+          }
             .home {
                 text-align: center;
                 font-size: 25px;
@@ -1200,6 +1204,7 @@
            
 
             
+
 
 
 
