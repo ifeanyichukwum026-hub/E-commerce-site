@@ -902,7 +902,7 @@
             .menu-holder:hover .menu-links{
                 right: 0;
                 flex-direction: column;
-                allign-items: center;
+                align-items: center;
             }
             .close{
                 display: none;
@@ -1237,6 +1237,7 @@
            
 
             
+
 
 
 
