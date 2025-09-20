@@ -866,7 +866,8 @@
                 position: fixed;
             }
             .active{
-                border-bottom:0;
+                border-bottom: 2px solid darkcyan;
+                display: inline-block;
             }
             .menu-links {
                 width: 200px;
@@ -882,9 +883,9 @@
                 
             }
             .menu-links  a{
-                padding-top: 25px;
+                padding-top: 50px;
                 color: black;
-                margin-left: 8;
+                margin-left: 0;
             }
             .mobile{
                 display: flex;
@@ -901,6 +902,7 @@
             .menu-holder:hover .menu-links{
                 right: 0;
                 flex-direction: column;
+                allign-items: center;
             }
             .close{
                 display: none;
@@ -1235,6 +1237,7 @@
            
 
             
+
 
 
 
