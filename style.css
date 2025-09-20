@@ -750,6 +750,18 @@
                 font-size: 12px;
                 margin-left: 6px;
             }
+            .hero button {
+              width: 200px;
+              background-image: url(images/button.png);
+              background-repeat: no-repeat;
+              background-size: cover;
+              padding: 10px 60px 10px 0px;
+              text-align: center;
+              border: none;
+              background-color: transparent;
+              cursor: pointer;
+              background-position: -30px;
+           }
             .picture {
                 display: flex;
                 justify-content: space-evenly;
@@ -1188,5 +1200,6 @@
            
 
             
+
 
 
