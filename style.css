@@ -1140,7 +1140,7 @@
                 display: flex;
                 justify-content: space-between;
                 position: absolute;
-                top: 2px;
+                top: -1px;
                 align-items: center;
                 gap: 0;
                 flex-wrap: wrap;
@@ -1242,6 +1242,7 @@
            
 
             
+
 
 
 
