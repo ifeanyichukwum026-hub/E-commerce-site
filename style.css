@@ -1125,7 +1125,7 @@
                 display: flex;
                 position: absolute;
                 top: 80px;
-                left: 47px;
+                left: 32px;
                 color: #fff;
                 line-height: 5px;
                 flex-direction: column;
@@ -1156,7 +1156,7 @@
                 margin-left: 30px;
             }
             .event-email {
-                width: 310px;
+                width: 283px;
                 padding-top: 10px;
                 padding-bottom: 10px;
                 padding-left: 10px;
@@ -1242,6 +1242,7 @@
            
 
             
+
 
 
 
