@@ -1096,6 +1096,9 @@
                 width: 333px;
                 display: block;
             }
+            .deliver{
+                font-size:15px;
+            }
             .shop-product {
                 display: flex;
                 justify-content: space-around;
@@ -1242,6 +1245,7 @@
            
 
             
+
 
 
 
